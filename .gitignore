@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+.venv/ # Виртуальная среда
+
+__cache__/ # Кеширование файлов Python
+
+
+*.py[cod] # Скомпилированные файлы Python-кода
+
+.idea/ # Среда настроек Pycharm
