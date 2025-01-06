@@ -1,2 +1,5 @@
-def add(a,b):
-    return a + b
+import time
+
+for i in "И тебе с Новым Годом, адепт Мудрой Змеи!!!":
+    print(i, end='', flush=True)
+    time.sleep(0.05)
